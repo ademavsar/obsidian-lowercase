@@ -1,0 +1,12 @@
+{
+  "id": "obsidian-lowercase",
+  "name": "lowercase converter",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "a simple obsidian plugin to convert selected text to lowercase.",
+  "author": "ademavsar",
+  "authorUrl": "https://ademavsar.github.io",
+  "isDesktopOnly": false,
+  "js": "main.js",
+  "css": "styles.css"
+} 
